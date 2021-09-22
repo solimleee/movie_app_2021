@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/solimleee/movie_app_2021.git/static/css/main.3e4efc61.chunk.css",
+    "main.js": "/solimleee/movie_app_2021.git/static/js/main.455bc0de.chunk.js",
+    "main.js.map": "/solimleee/movie_app_2021.git/static/js/main.455bc0de.chunk.js.map",
+    "runtime-main.js": "/solimleee/movie_app_2021.git/static/js/runtime-main.37de2405.js",
+    "runtime-main.js.map": "/solimleee/movie_app_2021.git/static/js/runtime-main.37de2405.js.map",
+    "static/js/2.797ee17c.chunk.js": "/solimleee/movie_app_2021.git/static/js/2.797ee17c.chunk.js",
+    "static/js/2.797ee17c.chunk.js.map": "/solimleee/movie_app_2021.git/static/js/2.797ee17c.chunk.js.map",
+    "index.html": "/solimleee/movie_app_2021.git/index.html",
+    "static/css/main.3e4efc61.chunk.css.map": "/solimleee/movie_app_2021.git/static/css/main.3e4efc61.chunk.css.map",
+    "static/js/2.797ee17c.chunk.js.LICENSE.txt": "/solimleee/movie_app_2021.git/static/js/2.797ee17c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37de2405.js",
+    "static/js/2.797ee17c.chunk.js",
+    "static/css/main.3e4efc61.chunk.css",
+    "static/js/main.455bc0de.chunk.js"
+  ]
+}
